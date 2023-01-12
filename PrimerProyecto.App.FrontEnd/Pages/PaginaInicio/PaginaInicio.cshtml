@@ -1,0 +1,28 @@
+﻿@page
+@model MyApp.Namespace.PaginaInicioModel
+@{
+}
+<h1>INSTITUTO METEOROLOGICO</h1>
+<section id="ImgPaginaIni">
+    <h4>imagen estacion</h4>
+   <img src="/Imagenes/estacion.jpg" width="30%"height="30%"/> 
+</section>
+<section id="DescPagIni">
+    <h4>mision</h4>
+    <p> this is only information
+    </p>
+</section>
+<section id="ConsPagIni">
+    <h4>consulta</h4>
+    <form>
+        <p>codigo estacion <input type="text" name="CodEsta"></p>
+        <p>
+            <select name="DatoConsulta">
+                <option value="MunEsta">Municipio</option>
+                <option value="UltDatoEsta">Dato Meteorologico</option>
+            </select>
+        </p>
+        <p><input type="submit" value="consultar"></p>
+    </form>
+</section>
+

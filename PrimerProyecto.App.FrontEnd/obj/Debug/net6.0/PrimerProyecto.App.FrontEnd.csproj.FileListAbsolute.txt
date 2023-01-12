@@ -1,0 +1,130 @@
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.staticwebassets.runtime.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.exe
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\bundle\PrimerProyecto.App.FrontEnd.styles.css
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\PrimerProyecto.App.FrontEnd.bundle.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\refint\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\ref\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.staticwebassets.runtime.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.exe
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\bundle\PrimerProyecto.App.FrontEnd.styles.css
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\PrimerProyecto.App.FrontEnd.bundle.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\refint\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\ref\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.staticwebassets.runtime.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.exe
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\bundle\PrimerProyecto.App.FrontEnd.styles.css
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\PrimerProyecto.App.FrontEnd.bundle.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\refint\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\ref\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.staticwebassets.runtime.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.exe
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\bundle\PrimerProyecto.App.FrontEnd.styles.css
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\PrimerProyecto.App.FrontEnd.bundle.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\refint\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\ref\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\appsettings.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.staticwebassets.runtime.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.exe
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\bin\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.RazorAssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\bundle\PrimerProyecto.App.FrontEnd.styles.css
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\scopedcss\projectbundle\PrimerProyecto.App.FrontEnd.bundle.scp.css
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\refint\PrimerProyecto.App.FrontEnd.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\PrimerProyecto.App.FrontEnd.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.FrontEnd\obj\Debug\net6.0\ref\PrimerProyecto.App.FrontEnd.dll

@@ -1,0 +1,20 @@
+﻿@page
+@model MyApp.Namespace.AdminModel
+@{
+}
+<h1>Administradores</h1>
+<h3>Datos Validacion</h3>
+<form>
+    <p>ingrese Password <input type="text" name="PassAdmin"></p>
+    <p>ingrese Roll     <input type="text" name="RollAdmin"></p>
+    <p><input type="submit" value="comprobar"></p>  
+</form>
+<p>
+    <a asp-page="/Admin/crearEstacion"> crear Estacion</a>
+</p>
+<p>
+    <a asp-page="/Admin/crearTecnico"> crear Tecnico</a>
+</p>
+<p>
+    <a asp-page="/Admin/crearSupervisor"> crear Supervisor</a>
+</p>

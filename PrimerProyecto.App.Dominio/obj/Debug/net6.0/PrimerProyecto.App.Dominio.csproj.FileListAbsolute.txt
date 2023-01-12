@@ -1,0 +1,84 @@
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\refint\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\ref\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\refint\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\ref\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\refint\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\ref\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\refint\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\ref\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\refint\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\ref\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\refint\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\ref\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\refint\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Dominio\obj\Debug\net6.0\ref\PrimerProyecto.App.Dominio.dll
