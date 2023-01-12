@@ -1,0 +1,390 @@
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.exe
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Humanizer.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CopyComplete
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\refint\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\Ejemplo2\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\ref\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.exe
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Humanizer.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CopyComplete
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\refint\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\ref\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\refint\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\refint\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.exe
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Humanizer.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.dll
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CopyComplete
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\semana5\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\ref\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.exe
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Humanizer.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CopyComplete
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\refint\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\Nueva carpeta\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\ref\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.exe
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Humanizer.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CopyComplete
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\refint\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo9\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\ref\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.exe
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.deps.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.runtimeconfig.json
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Humanizer.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Persistencia.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\bin\Debug\net6.0\PrimerProyecto.App.Dominio.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.AssemblyReference.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfoInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.AssemblyInfo.cs
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CoreCompileInputs.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.csproj.CopyComplete
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\refint\PrimerProyecto.App.Consola.dll
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.pdb
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\PrimerProyecto.App.Consola.genruntimeconfig.cache
+C:\henrybedoya\ciclo3\GROUP 80\ejemplo12\semana de frontend\ejemplo3\PrimerProyecto.App\PrimerProyecto.App.Consola\obj\Debug\net6.0\ref\PrimerProyecto.App.Consola.dll
